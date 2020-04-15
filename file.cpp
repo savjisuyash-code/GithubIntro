@@ -7,5 +7,6 @@ int main()
 	cout << "the one for rm command!!1!";
 	cout << "the one after rm command!!1!";
 	cout << "the one in dev";
+	cout << "the one in dev part 2";
 	return 0;
 }
